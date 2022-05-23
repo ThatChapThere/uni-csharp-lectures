@@ -1,0 +1,15 @@
+C:\Users\Tim\Documents\Code\repos\uni-csharp-lectures\Week7\Week7\bin\Debug\net6.0\Week7.exe
+C:\Users\Tim\Documents\Code\repos\uni-csharp-lectures\Week7\Week7\bin\Debug\net6.0\Week7.deps.json
+C:\Users\Tim\Documents\Code\repos\uni-csharp-lectures\Week7\Week7\bin\Debug\net6.0\Week7.runtimeconfig.json
+C:\Users\Tim\Documents\Code\repos\uni-csharp-lectures\Week7\Week7\bin\Debug\net6.0\Week7.dll
+C:\Users\Tim\Documents\Code\repos\uni-csharp-lectures\Week7\Week7\bin\Debug\net6.0\Week7.pdb
+C:\Users\Tim\Documents\Code\repos\uni-csharp-lectures\Week7\Week7\obj\Debug\net6.0\Week7.csproj.AssemblyReference.cache
+C:\Users\Tim\Documents\Code\repos\uni-csharp-lectures\Week7\Week7\obj\Debug\net6.0\Week7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tim\Documents\Code\repos\uni-csharp-lectures\Week7\Week7\obj\Debug\net6.0\Week7.AssemblyInfoInputs.cache
+C:\Users\Tim\Documents\Code\repos\uni-csharp-lectures\Week7\Week7\obj\Debug\net6.0\Week7.AssemblyInfo.cs
+C:\Users\Tim\Documents\Code\repos\uni-csharp-lectures\Week7\Week7\obj\Debug\net6.0\Week7.csproj.CoreCompileInputs.cache
+C:\Users\Tim\Documents\Code\repos\uni-csharp-lectures\Week7\Week7\obj\Debug\net6.0\Week7.dll
+C:\Users\Tim\Documents\Code\repos\uni-csharp-lectures\Week7\Week7\obj\Debug\net6.0\refint\Week7.dll
+C:\Users\Tim\Documents\Code\repos\uni-csharp-lectures\Week7\Week7\obj\Debug\net6.0\Week7.pdb
+C:\Users\Tim\Documents\Code\repos\uni-csharp-lectures\Week7\Week7\obj\Debug\net6.0\Week7.genruntimeconfig.cache
+C:\Users\Tim\Documents\Code\repos\uni-csharp-lectures\Week7\Week7\obj\Debug\net6.0\ref\Week7.dll

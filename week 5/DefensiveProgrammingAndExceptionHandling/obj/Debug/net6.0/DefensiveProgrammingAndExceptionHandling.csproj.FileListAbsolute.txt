@@ -1,0 +1,15 @@
+C:\Users\Tim\Documents\Code\repos\uni-csharp-lectures\week 5\DefensiveProgrammingAndExceptionHandling\bin\Debug\net6.0\DefensiveProgrammingAndExceptionHandling.exe
+C:\Users\Tim\Documents\Code\repos\uni-csharp-lectures\week 5\DefensiveProgrammingAndExceptionHandling\bin\Debug\net6.0\DefensiveProgrammingAndExceptionHandling.deps.json
+C:\Users\Tim\Documents\Code\repos\uni-csharp-lectures\week 5\DefensiveProgrammingAndExceptionHandling\bin\Debug\net6.0\DefensiveProgrammingAndExceptionHandling.runtimeconfig.json
+C:\Users\Tim\Documents\Code\repos\uni-csharp-lectures\week 5\DefensiveProgrammingAndExceptionHandling\bin\Debug\net6.0\DefensiveProgrammingAndExceptionHandling.dll
+C:\Users\Tim\Documents\Code\repos\uni-csharp-lectures\week 5\DefensiveProgrammingAndExceptionHandling\bin\Debug\net6.0\DefensiveProgrammingAndExceptionHandling.pdb
+C:\Users\Tim\Documents\Code\repos\uni-csharp-lectures\week 5\DefensiveProgrammingAndExceptionHandling\obj\Debug\net6.0\DefensiveProgrammingAndExceptionHandling.csproj.AssemblyReference.cache
+C:\Users\Tim\Documents\Code\repos\uni-csharp-lectures\week 5\DefensiveProgrammingAndExceptionHandling\obj\Debug\net6.0\DefensiveProgrammingAndExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tim\Documents\Code\repos\uni-csharp-lectures\week 5\DefensiveProgrammingAndExceptionHandling\obj\Debug\net6.0\DefensiveProgrammingAndExceptionHandling.AssemblyInfoInputs.cache
+C:\Users\Tim\Documents\Code\repos\uni-csharp-lectures\week 5\DefensiveProgrammingAndExceptionHandling\obj\Debug\net6.0\DefensiveProgrammingAndExceptionHandling.AssemblyInfo.cs
+C:\Users\Tim\Documents\Code\repos\uni-csharp-lectures\week 5\DefensiveProgrammingAndExceptionHandling\obj\Debug\net6.0\DefensiveProgrammingAndExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\Tim\Documents\Code\repos\uni-csharp-lectures\week 5\DefensiveProgrammingAndExceptionHandling\obj\Debug\net6.0\DefensiveProgrammingAndExceptionHandling.dll
+C:\Users\Tim\Documents\Code\repos\uni-csharp-lectures\week 5\DefensiveProgrammingAndExceptionHandling\obj\Debug\net6.0\refint\DefensiveProgrammingAndExceptionHandling.dll
+C:\Users\Tim\Documents\Code\repos\uni-csharp-lectures\week 5\DefensiveProgrammingAndExceptionHandling\obj\Debug\net6.0\DefensiveProgrammingAndExceptionHandling.pdb
+C:\Users\Tim\Documents\Code\repos\uni-csharp-lectures\week 5\DefensiveProgrammingAndExceptionHandling\obj\Debug\net6.0\DefensiveProgrammingAndExceptionHandling.genruntimeconfig.cache
+C:\Users\Tim\Documents\Code\repos\uni-csharp-lectures\week 5\DefensiveProgrammingAndExceptionHandling\obj\Debug\net6.0\ref\DefensiveProgrammingAndExceptionHandling.dll

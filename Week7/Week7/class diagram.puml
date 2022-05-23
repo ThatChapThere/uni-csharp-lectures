@@ -1,0 +1,15 @@
+@startuml name
+
+Person <|-- Student
+Person <|-- Employee
+
+Person : string name
+Person : int age
+Person : talk()
+
+Student : string course
+Student : talk()
+
+Employee : string employer
+
+@enduml
